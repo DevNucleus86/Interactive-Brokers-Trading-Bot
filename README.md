@@ -187,19 +187,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## 😃 Contact
-
-Vincent Ho - [LinkedIn](https://www.linkedin.com/in/vincentho711/)
-
-Project Link: [https://github.com/Vincentho711/Interactive-Brokers-Trading-Bot](https://github.com/Vincentho711/Interactive-Brokers-Trading-Bot)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## ⭐ Acknowledgements
-
-* [Areed1192](https://github.com/areed1192)
 
 
 
