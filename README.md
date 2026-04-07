@@ -41,14 +41,14 @@
   <p align="center">
     A Python library written to handle IB's Client Portal API, manage portfolio and execute trades.
     <br />
-    <a href="https://github.com/Vincentho711/Interactive-Brokers-Trading-Bot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DevNucleus86/Interactive-Brokers-Trading-Bot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Vincentho711/Interactive-Brokers-Trading-Bot">View Demo</a>
+    <a href="https://github.com/DevNucleus86/Interactive-Brokers-Trading-Bot">View Demo</a>
     ·
-    <a href="https://github.com/Vincentho711/Interactive-Brokers-Trading-Bot">Report Bug</a>
+    <a href="https://github.com/DevNucleus86/Interactive-Brokers-Trading-Bot">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <!-- <a href="https://github.com/github_username/repo_name/issues">Request Feature</a> -->
   </p>
 </p>
 
